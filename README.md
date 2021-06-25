@@ -1,2 +1,2 @@
 # ClassExample
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerifatAdebola/ClassExample.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerifatAdebola/ClassExample.git/py37_r353)
